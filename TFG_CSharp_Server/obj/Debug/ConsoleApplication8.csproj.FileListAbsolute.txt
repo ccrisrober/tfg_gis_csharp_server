@@ -1,0 +1,10 @@
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Newtonsoft.Json.dll
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\maldicion069\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\maldicion069\Documents\Visual Studio 2013\Projects\TGF_CSharp_Server\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\maldicion069\Documents\Visual Studio 2013\Projects\TGF_CSharp_Server\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\maldicion069\Documents\Visual Studio 2013\Projects\TGF_CSharp_Server\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
